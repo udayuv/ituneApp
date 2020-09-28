@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/itune-music/static/js/main.cc4eb9d5.chunk.js",
+    "main.js.map": "/itune-music/static/js/main.cc4eb9d5.chunk.js.map",
+    "runtime-main.js": "/itune-music/static/js/runtime-main.4e37915b.js",
+    "runtime-main.js.map": "/itune-music/static/js/runtime-main.4e37915b.js.map",
+    "static/css/2.220ccb42.chunk.css": "/itune-music/static/css/2.220ccb42.chunk.css",
+    "static/js/2.fc2457bf.chunk.js": "/itune-music/static/js/2.fc2457bf.chunk.js",
+    "static/js/2.fc2457bf.chunk.js.map": "/itune-music/static/js/2.fc2457bf.chunk.js.map",
+    "index.html": "/itune-music/index.html",
+    "precache-manifest.056d65727fd8a553a1168e4b524f0905.js": "/itune-music/precache-manifest.056d65727fd8a553a1168e4b524f0905.js",
+    "service-worker.js": "/itune-music/service-worker.js",
+    "static/css/2.220ccb42.chunk.css.map": "/itune-music/static/css/2.220ccb42.chunk.css.map",
+    "static/js/2.fc2457bf.chunk.js.LICENSE.txt": "/itune-music/static/js/2.fc2457bf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e37915b.js",
+    "static/css/2.220ccb42.chunk.css",
+    "static/js/2.fc2457bf.chunk.js",
+    "static/js/main.cc4eb9d5.chunk.js"
+  ]
+}
